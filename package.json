@@ -3,6 +3,7 @@
     "displayName": "Orange Triad Dark",
     "description": "A dark mode triad color palette with an orange base color",
     "version": "1.0.0",
+    "publisher": "MyNameIsAndrew-Mangix",
     "engines": {
         "vscode": "^1.66.0"
     },
