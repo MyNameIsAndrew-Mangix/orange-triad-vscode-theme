@@ -1,0 +1,35 @@
+{
+    "name": "orange-triad-dark",
+    "displayName": "Orange Triad Dark",
+    "description": "A dark mode triad color palette with an orange base color",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/MyNameIsAndrew-Mangix/orange-triad-vscode-theme"
+    },
+    "keywords": [
+        "theme",
+        "orange",
+        "dark theme",
+        "triad",
+        "orange triad",
+        "strain",
+        "eye strain",
+        "reduced eye strain"
+    ],
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Orange Triad Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Orange Triad Dark-color-theme.json"
+            }
+        ]
+    }
+}
