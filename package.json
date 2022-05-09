@@ -2,7 +2,7 @@
     "name": "orange-triad-dark",
     "displayName": "Super Orange Triad",
     "description": "A dark mode triad color palette with an orange base color",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "publisher": "MyNameIsAndrew-Mangix",
     "engines": {
         "vscode": "^1.66.0"
