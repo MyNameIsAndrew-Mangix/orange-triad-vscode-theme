@@ -24,17 +24,17 @@
       "dropdown.border": "#E1B47610",
       "editor.background": "#1D1A11",
       "editor.findMatchBackground": "#1D1A11",
-      "editor.findMatchBorder": "#734A05",
+      "editor.findMatchBorder": "#acc14f70",
       "editor.findMatchHighlightBackground": "#734A0593",
-      "editor.findMatchHighlightBorder": "#E1B47630",
+      "editor.findMatchHighlightBorder": "#acc14f70",
       "editor.foreground": "#CA9D5E",
       "editor.lineHighlightBackground": "#1D1A1150",
       "editor.selectionBackground": "#E1B47630",
       "editor.selectionHighlightBackground": "#734A056b",
-      "editor.selectionHighlightBorder": "#E1B476f0",
+      "editor.selectionHighlightBorder": "#604275",
       "editorBracketMatch.background": "#1D1A11",
-      "editorBracketMatch.border": "#CA9D5E",
-      "editorCursor.foreground": "#734A05",
+      "editorBracketMatch.border": "#604275",
+      "editorCursor.foreground": "#acc14f70",
       "editorError.foreground": "#ff000070",
       "editorGroup.border": "#1D1A1130",
       "editorGroupHeader.tabsBackground": "#1D1A11",
@@ -59,7 +59,9 @@
       "editorSuggestWidget.background": "#1D1A11",
       "editorSuggestWidget.border": "#E1B47610",
       "editorSuggestWidget.foreground": "#CA9D5E",
-      "editorSuggestWidget.highlightForeground": "#000000",
+      "editorSuggestWidget.highlightForeground": "#BE821A70",
+	  "editorSuggestWidget.focusHighlightForeground": "#BE821A",
+	  "editorSuggestWidget.selectedForeground": "#BE821A",
       "editorSuggestWidget.selectedBackground": "#734A0520",
       "editorWarning.foreground": "#ff0000",
       "editorWhitespace.foreground": "#CA9D5E40",
@@ -123,7 +125,7 @@
       "panelTitle.inactiveForeground": "#CA9D5E",
       "peekView.border": "#734A0550",
       "peekViewEditor.background": "#CA9D5E05",
-      "peekViewEditor.matchHighlightBackground": "#734A0550",
+      "peekViewEditor.matchHighlightBackground": "#acc14f70",
       "peekViewEditorGutter.background": "#CA9D5E05",
       "peekViewResult.background": "#CA9D5E05",
       "peekViewResult.matchHighlightBackground": "#734A0550",
@@ -519,7 +521,7 @@
 				"constant.character.escape"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#acc14f"
 			}
 		},
 		{
